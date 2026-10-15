@@ -1,0 +1,167 @@
+3+4
+X <- 42
+X
+my_oranges <- 6
+my_oranges
+my_apples <- 5
+print(myfruit)
+my_fruit <- my_apples + my_oranges
+print(myfruit)
+print(my_fruit)
+# input the data vector#
+x<-c(7.5,8.2,3.1,5.6,8.2,9.3,6.5,7.0,9.3,1.2,14.5,6.2)
+min(x)#
+max(x)#
+mean(x)#
+median(x)#
+var(x)#
+sum(x)#
+summary(x)
+# draw data in points#
+plot(x)#
+# draw data in lines#
+plot(x, type="o")#
+# Show with colour#
+plot(x, type="o", col="blue")
+x
+a <- sum(x)/length(x)
+print(a)
+barplot(x)
+plot(a)
+plot(a, type="o")
+x <- 52
+x
+print(x)
+class(x)
+c("hello", 5)#
+#> [1] "hello" "5"
+csoft_drinks <- c("Coke", "Fanta", "Pepsi", "Sprite")
+csoft_drinks
+animals <- c("birds","squirrels","fish")
+paste(animals, "are silly")#
+#> [1] "birds are silly" "squirrels are silly" "fish are#
+silly"
+paste(csoft_drinks, "carbonated drink")
+csoft_drink
+csoft_drinks
+sd(faithful$eruptions)
+PlantGrowth$group
+str(PlantGrowth)
+s <- c(333, 446, 128, 10, 4, 238, 187, 952, 314, 427, 417, 594)
+boxplot.stats(s)
+head(iris)#
+str(iris)#
+iris#
+summary(iris)
+set.seed(111)
+ind <- sample(2, nrow(iris), replace=TRUE, prob=c(0.67,#
+0.33))
+?sample
+ind
+# Training set has the records of Iris where ind is sampled#
+#as 1#
+iris.training <- iris[ind==1, ]#
+# Test set has the records of Iris where ind is sampled as 2#
+iris.test <- iris[ind==2, ]
+#see how many records were allocated to the training and#
+#test sets.#
+nrow(iris.training)#
+nrow(iris.test)#
+#see how many items are in each group#
+length(which(iris.training$Species == "setosa"))#
+length(which(iris.training$Species == "versicolor"))#
+length(which(iris.training$Species == "virginica"))
+ind2 <- sample(2, nrow(iris), replace=TRUE, prob=c(0.8,#
+0.2))
+ind2
+library(rpart)
+iris_tree <- rpart(Species ~ Sepal.Length + Sepal.Width,#
+data=iris.training, method="class")
+iris_tree
+plot(iris_tree)#
+#Now we just need to add the labels to the tree#
+text(iris_tree, cex=0.9, use.n=TRUE, xpd=TRUE)
+install.packages("rpart.plot") #install the package#
+library("rpart.plot") #install the library#
+rpart.plot(iris_tree) #plots the decision tree#
+rpart.plot(iris_tree, extra=4) #adding the extra=4 makes it#
+#easier to read
+#see again how many items are in each group#
+length(which(iris.training$Species == "setosa"))#
+length(which(iris.training$Species == "versicolor"))#
+length(which(iris.training$Species == "virginica"))#
+#If you divide the count of each of these groups by the#
+total in the training.set you will see that the numbers in#
+the nodes are indicating the percentage of the group that is#
+made up of each type of iris (setosa, versicolor or#
+virginica).
+length(which(iris.training$Species == "setosa"))#
+length(which(iris.training$Species == "versicolor"))#
+length(which(iris.training$Species == "virginica"))
+iris_tree3 <- rpart(Species ~ Petal.Width + Petal.Legnth,#
+data=iris.training, method="class")
+iris_tree <- rpart(Species ~ Petal.Length + Petal.Width,#
+data=iris.training, method="class")
+plot(iris_tree)
+plot(iris_tree)#
+#Now we just need to add the labels to the tree#
+text(iris_tree, cex=0.9, use.n=TRUE, xpd=TRUE
+rpart.plot(iris_tree) #plots the decision tree#
+rpart.plot(iris_tree, extra=4) #adding the extra=4 makes it#
+#easier to read
+# Learn a tree based on all attributes#
+iris_tree_all <- rpart(Species ~ ., data=iris.training,#
+method="class")
+plot(iris_tree_all)
+rpart.plot(iris_tree_all, extra=4)
+# Create a data frame containing only one record#
+test <- data.frame(4.32, 3.34, 1.32, 0.8)#
+# Assign names to each column of the data frame#
+tags <- c("Sepal.Length", "Sepal.Width", "Petal.Length",#
+"Petal.Width")#
+names(test) <- tags#
+#see what test looks like so far#
+test#
+# Add one more record into the data frame#
+test[2, ] = c(5.32, 6.34, 4.32, 3.8)#
+#see what test looks like now#
+test
+#test the accuracy of the data we have just set up#
+pred <- predict(iris_tree, test, type="class")#
+pred#
+#test the iris.test data#
+pred <- predict(iris_tree, iris.test, type="class")#
+pred
+pred
+table(prediction=pred,true=iris.test$Species)#
+#Or you can use#
+table(pred,iris.test$Species)
+hist(airq$Ozone)
+library(readr)#
+#
+data <- read_csv("your_file.csv")
+install.packages("readr")
+> setwd("/Users/aarontroughton/Desktop/ICT110/Task 3") # Set work directory to task folder#
+> getwd() # Check if directory is properly set
+setwd("/Users/aarontroughton/Desktop/ICT110/Task 3") # Set work directory to task folder#
+> getwd() # Check if directory is properly set
+setwd
+setwd("/Users/aarontroughton/Desktop/ICT110/Task 3") # Set work directory to task folder
+install(car)
+install.packages("car")
+setwd("/Users/aarontroughton/Desktop/asd")   # working directory#
+#
+df <- read.csv("854d17aa-2d85-49a4-9e3e-ff7c06b596a7.csv", fileEncoding = "UTF-8-BOM")#
+#
+counts <- table(df$GTFS.Route_short_name)#
+counts <- counts[c("T1", "T2", "T3", "T4", "T5", "T6", "EX")]#
+#
+b <- barplot(counts, main = "Route codes per T-line",#
+             xlab = "T-line", ylab = "Number of route codes", ylim = c(0, 65))#
+text(b, counts, labels = counts, pos = 3)
+t1 <- df[df$GTFS.Route_short_name == "T1", ]#
+counts <- sort(table(t1$GTFS.Route_long_name), decreasing = TRUE)#
+#
+b <- barplot(counts, main = "T1 route codes by destination",#
+             ylab = "Number of route codes", ylim = c(0, 28))#
+text(b, counts, labels = counts, pos = 3)

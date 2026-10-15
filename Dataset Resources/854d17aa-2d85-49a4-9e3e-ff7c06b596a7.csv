@@ -1,0 +1,156 @@
+﻿_id,Current GTFS Route_short_name,GTFS Route_short_name,GTFS Route_long_name
+1,BDBN,T6,Beenleigh
+2,BDBR,T5,Brisbane Airport
+3,BDCA,T3,Doomben
+4,BDCL,T4,Cleveland
+5,BDEX,EX,Exhibition
+6,BDRW,T1,Ipswich / Rosewood
+7,BDVL,T5,Varsity Lakes
+8,BHIP,T1,Ipswich / Rosewood
+9,BHSP,T1,Nambour / Gympie North
+10,BNBD,T6,Beenleigh
+11,BNBN,T6,Beenleigh
+12,BNBR,T6,Beenleigh
+13,BNCA,T1,Caboolture
+14,BNCL,T4,Cleveland
+15,BNDB,T3,Doomben
+16,BNFG,T6,Ferny Grove
+17,BNGY,T1,Nambour / Gympie North
+18,BNNA,T1,Nambour / Gympie North
+19,BNRP,T2,Kippa-Ring
+20,BNSH,T4,Shorncliffe
+21,BNVL,T5,Varsity Lakes
+22,BRBD,T5,Brisbane Airport
+23,BRBN,T6,Beenleigh
+24,BRBR,T4,Shorncliffe
+25,BRCA,T1,Caboolture
+26,BRCL,T4,Cleveland
+27,BRDB,T3,Doomben
+28,BREX,EX,Exhibition
+29,BRFG,T6,Ferny Grove
+30,BRGY,T1,Nambour / Gympie North
+31,BRIP,T1,Ipswich / Rosewood
+32,BRNA,T1,Nambour / Gympie North
+33,BRRP,T2,Kippa-Ring
+34,BRRW,T1,Ipswich / Rosewood
+35,BRSH,T4,Shorncliffe
+36,BRSP,T2,Springfield Central
+37,BRVL,T5,Varsity Lakes
+38,CABD,T1,Caboolture
+39,CABN,T6,Beenleigh
+40,CABR,T1,Caboolture
+41,CACA,T1,Caboolture
+42,CACL,T4,Cleveland
+43,CADB,T1,Caboolture
+44,CAEX,EX,Exhibition
+45,CAGY,T1,Nambour / Gympie North
+46,CAIP,T1,Ipswich / Rosewood
+47,CANA,T1,Nambour / Gympie North
+48,CARW,T1,Ipswich / Rosewood
+49,CASH,T4,Shorncliffe
+50,CASP,T2,Springfield Central
+51,CLBD,T5,Brisbane Airport
+52,CLBN,T6,Beenleigh
+53,CLBR,T4,Cleveland
+54,CLCA,T1,Caboolture
+55,CLCL,T4,Cleveland
+56,CLDB,T3,Doomben
+57,CLFG,T6,Ferny Grove
+58,CLSH,T4,Shorncliffe
+59,DBBN,T6,Beenleigh
+60,DBBR,T3,Doomben
+61,DBCA,T1,Caboolture
+62,DBCL,T4,Cleveland
+63,DBDB,T3,Doomben
+64,DBEX,EX,Exhibition
+65,DBIP,T1,Ipswich / Rosewood
+66,DBVL,T5,Varsity Lakes
+67,EXBD,T5,Brisbane Airport
+68,EXBR,EX,Exhibition
+69,EXCA,T1,Caboolture
+70,EXDB,T3,Doomben
+71,EXEX,EX,Exhibition
+72,EXFG,T6,Ferny Grove
+73,EXGY,T1,Nambour / Gympie North
+74,EXNA,T1,Nambour / Gympie North
+75,EXRP,T2,Kippa-Ring
+76,FGBN,T6,Beenleigh
+77,FGBR,T6,Ferny Grove
+78,FGCL,T4,Cleveland
+79,FGIP,T1,Ipswich / Rosewood
+80,FGVL,T5,Varsity Lakes
+81,GYBR,T1,Nambour / Gympie North
+82,GYCA,T1,Caboolture
+83,GYEX,EX,Exhibition
+84,GYIP,T1,Ipswich / Rosewood
+85,GYNA,T1,Nambour / Gympie North
+86,GYSH,T1,Nambour / Gympie North
+87,GYSP,T2,Springfield Central
+88,IPBR,T1,Ipswich / Rosewood
+89,IPCA,T1,Caboolture
+90,IPDB,T3,Doomben
+91,IPEX,EX,Exhibition
+92,IPFG,T6,Ferny Grove
+93,IPGY,T1,Nambour / Gympie North
+94,IPIP,T1,Ipswich / Rosewood
+95,IPNA,T1,Nambour / Gympie North
+96,IPRP,T2,Kippa-Ring
+97,IPRW,T1,Ipswich / Rosewood
+98,IPSH,T4,Shorncliffe
+99,IPSP,T2,Springfield Central
+100,NABR,T1,Nambour / Gympie North
+101,NACA,T1,Caboolture
+102,NAEX,EX,Exhibition
+103,NAGY,T1,Nambour / Gympie North
+104,NAIP,T1,Ipswich / Rosewood
+105,NANA,T1,Nambour / Gympie North
+106,NASH,T1,Nambour / Gympie North
+107,NASP,T2,Springfield Central
+108,RPBN,T6,Beenleigh
+109,RPBR,T2,Kippa-Ring
+110,RPCA,T2,Kippa-Ring
+111,RPCL,T4,Cleveland
+112,RPEX,EX,Exhibition
+113,RPIP,T1,Ipswich / Rosewood
+114,RPSH,T2,Kippa-Ring
+115,RPSP,T2,Springfield Central
+116,RWBD,T5,Brisbane Airport
+117,RWBR,T1,Ipswich / Rosewood
+118,RWCA,T1,Caboolture
+119,RWIP,T1,Ipswich / Rosewood
+120,RWNA,T1,Nambour / Gympie North
+121,RWRP,T2,Kippa-Ring
+122,RWRW,T1,Ipswich / Rosewood
+123,RWSP,T2,Springfield Central
+124,SBCA,T1,Caboolture
+125,SBNA,T1,Nambour / Gympie North
+126,SBRP,T2,Kippa-Ring
+127,SHBN,T6,Beenleigh
+128,SHBR,T4,Shorncliffe
+129,SHCA,T1,Caboolture
+130,SHCL,T4,Cleveland
+131,SHGY,T1,Nambour / Gympie North
+132,SHIP,T1,Ipswich / Rosewood
+133,SHNA,T1,Nambour / Gympie North
+134,SHRP,T2,Kippa-Ring
+135,SHSH,T4,Shorncliffe
+136,SHSP,T2,Springfield Central
+137,SHVL,T5,Varsity Lakes
+138,SPBR,T2,Springfield Central
+139,SPCA,T1,Caboolture
+140,SPDB,T3,Doomben
+141,SPEX,EX,Exhibition
+142,SPIP,T1,Ipswich / Rosewood
+143,SPNA,T1,Nambour / Gympie North
+144,SPRP,T2,Kippa-Ring
+145,SPSH,T4,Shorncliffe
+146,VLBD,T5,Brisbane Airport
+147,VLBN,T6,Beenleigh
+148,VLBR,T5,Varsity Lakes
+149,VLCL,T4,Cleveland
+150,VLDB,T3,Doomben
+151,VLFG,T6,Ferny Grove
+152,VLIP,T1,Ipswich / Rosewood
+153,VLRP,T2,Kippa-Ring
+154,VLSH,T4,Shorncliffe
+155,VLVL,T5,Varsity Lakes

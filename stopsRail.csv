@@ -1,0 +1,512 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,platform_code
+600000,600000,"Bowen Hills station, platform 2",, -27.445390, 153.037634,1,https://translink.com.au/stop/600000/gtfs/,0,place_bowsta,2
+600002,600002,"Bowen Hills station, platform 3",, -27.445482, 153.037641,1,https://translink.com.au/stop/600002/gtfs/,0,place_bowsta,3
+600005,600005,"Bowen Hills station, platform 1",, -27.445402, 153.037717,1,https://translink.com.au/stop/600005/gtfs/,0,place_bowsta,1
+600006,600006,"South Bank station, platform 1",, -27.481832, 153.022995,1,https://translink.com.au/stop/600006/gtfs/,0,place_sbasta,1
+600007,600007,"Bowen Hills station, platform 4",, -27.445437, 153.037549,1,https://translink.com.au/stop/600007/gtfs/,0,place_bowsta,4
+600010,600010,"Fortitude Valley station, platform 3",, -27.456047, 153.033705,1,https://translink.com.au/stop/600010/gtfs/,0,place_forsta,3
+600011,600011,"Fortitude Valley station, platform 4",, -27.456021, 153.033580,1,https://translink.com.au/stop/600011/gtfs/,0,place_forsta,4
+600012,600012,"South Brisbane station, platform 1",, -27.475067, 153.018521,1,https://translink.com.au/stop/600012/gtfs/,0,place_sousta,1
+600013,600013,"Fortitude Valley station, platform 2",, -27.456111, 153.033637,1,https://translink.com.au/stop/600013/gtfs/,0,place_forsta,2
+600014,600014,"Fortitude Valley station, platform 1",, -27.456135, 153.033762,1,https://translink.com.au/stop/600014/gtfs/,0,place_forsta,1
+600016,600016,"Central station, platform 3",, -27.465737, 153.026028,1,https://translink.com.au/stop/600016/gtfs/,0,place_censta,3
+600017,600017,"Central station, platform 2",, -27.465769, 153.025981,1,https://translink.com.au/stop/600017/gtfs/,0,place_censta,2
+600018,600018,"Central station, platform 1",, -27.465841, 153.026069,1,https://translink.com.au/stop/600018/gtfs/,0,place_censta,1
+600019,600019,"Central station, platform 5",, -27.465647, 153.025962,1,https://translink.com.au/stop/600019/gtfs/,0,place_censta,5
+600020,600020,"Central station, platform 4",, -27.465687, 153.025902,1,https://translink.com.au/stop/600020/gtfs/,0,place_censta,4
+600024,600024,"Central station, platform 6",, -27.465594, 153.025827,1,https://translink.com.au/stop/600024/gtfs/,0,place_censta,6
+600028,600028,"Roma Street station, platform 7",, -27.465246, 153.019689,1,https://translink.com.au/stop/600028/gtfs/,0,place_romsta,7
+600029,600029,"Roma Street station, platform 8",, -27.465280, 153.019804,1,https://translink.com.au/stop/600029/gtfs/,0,place_romsta,8
+600030,600030,"Roma Street station, platform 6",, -27.465440, 153.019736,1,https://translink.com.au/stop/600030/gtfs/,0,place_romsta,6
+600033,600033,"Roma Street station, platform 3",, -27.465887, 153.019537,1,https://translink.com.au/stop/600033/gtfs/,0,place_romsta,3
+600034,600034,"Roma Street station, platform 5",, -27.465410, 153.019624,1,https://translink.com.au/stop/600034/gtfs/,0,place_romsta,5
+600035,600035,"Roma Street station, platform 10",, -27.465000, 153.019596,1,https://translink.com.au/stop/600035/gtfs/,0,place_romsta,10
+600036,600036,"Roma Street station, platform 4",, -27.465583, 153.019616,1,https://translink.com.au/stop/600036/gtfs/,0,place_romsta,4
+600038,600038,"Roma Street station, platform 9",, -27.465057, 153.019790,1,https://translink.com.au/stop/600038/gtfs/,0,place_romsta,9
+600051,600051,"Dutton Park station, platform 1",, -27.500660, 153.028537,1,https://translink.com.au/stop/600051/gtfs/,0,place_dupsta,1
+600052,600052,"Fairfield station, platform 1",, -27.509462, 153.028009,1,https://translink.com.au/stop/600052/gtfs/,0,place_faista,1
+600053,600053,"Yeronga station, platform 1",, -27.517787, 153.016898,1,https://translink.com.au/stop/600053/gtfs/,0,place_yersta,1
+600054,600054,"Yeerongpilly station, platform 2",, -27.525300, 153.014053,1,https://translink.com.au/stop/600054/gtfs/,0,place_yeesta,2
+600085,600085,"Boggo Road station, platform 8",, -27.493617, 153.030866,1,https://translink.com.au/stop/600085/gtfs/,0,place_parsta,8
+600087,600087,"Springfield station, platform 2",, -27.660648, 152.921424,1,https://translink.com.au/stop/600087/gtfs/,0,place_sprsta,2
+600088,600088,"Springfield station, platform 1",, -27.660550, 152.921296,1,https://translink.com.au/stop/600088/gtfs/,0,place_sprsta,1
+600089,600089,"Springfield Central station, platform 1",, -27.674192, 152.902811,1,https://translink.com.au/stop/600089/gtfs/,0,place_spcsta,1
+600090,600090,"Springfield Central station, platform 2",, -27.674345, 152.902841,1,https://translink.com.au/stop/600090/gtfs/,0,place_spcsta,2
+600117,600117,"Varsity Lakes station, platform 2",, -28.097249, 153.399314,1,https://translink.com.au/stop/600117/gtfs/,0,place_varsta,2
+600118,600118,"Robina station, platform 1",, -28.071716, 153.378100,1,https://translink.com.au/stop/600118/gtfs/,0,place_rbnsta,1
+600119,600119,"Helensvale station, platform 1",, -27.925500, 153.339068,1,https://translink.com.au/stop/600119/gtfs/,0,place_helsta,1
+600120,600120,"Nerang station, platform 2",, -27.994311, 153.350029,1,https://translink.com.au/stop/600120/gtfs/,0,place_nrgsta,2
+600185,600185,"Nerang station, platform 1",, -27.994317, 153.350122,1,https://translink.com.au/stop/600185/gtfs/,0,place_nrgsta,1
+600186,600186,"South Brisbane station, platform 2",, -27.475122, 153.018455,1,https://translink.com.au/stop/600186/gtfs/,0,place_sousta,2
+600188,600188,"South Bank station, platform 2",, -27.481845, 153.022914,1,https://translink.com.au/stop/600188/gtfs/,0,place_sbasta,2
+600190,600190,"Boggo Road station, platform 7",, -27.493794, 153.030810,1,https://translink.com.au/stop/600190/gtfs/,0,place_parsta,7
+600191,600191,"Boggo Road station, platform 6",, -27.493739, 153.030730,1,https://translink.com.au/stop/600191/gtfs/,0,place_parsta,6
+600193,600193,"Dutton Park station, platform 2",, -27.500710, 153.028512,1,https://translink.com.au/stop/600193/gtfs/,0,place_dupsta,2
+600194,600194,"Fairfield station, platform 2",, -27.509522, 153.027977,1,https://translink.com.au/stop/600194/gtfs/,0,place_faista,2
+600195,600195,"Yeronga station, platform 2",, -27.517741, 153.016927,1,https://translink.com.au/stop/600195/gtfs/,0,place_yersta,2
+600196,600196,"Yeerongpilly station, platform 3",, -27.525269, 153.013910,1,https://translink.com.au/stop/600196/gtfs/,0,place_yeesta,3
+600199,600199,"Rocklea station, platform 1",, -27.544514, 153.013974,1,https://translink.com.au/stop/600199/gtfs/,0,place_rocsta,1
+600201,600201,"Salisbury station, platform 1",, -27.553951, 153.022776,1,https://translink.com.au/stop/600201/gtfs/,0,place_slysta,1
+600203,600203,"Coopers Plains station, platform 1",, -27.567159, 153.035859,1,https://translink.com.au/stop/600203/gtfs/,0,place_cppsta,1
+600204,600204,"Coopers Plains station, platform 2",, -27.567254, 153.035803,1,https://translink.com.au/stop/600204/gtfs/,0,place_cppsta,2
+600205,600205,"Coopers Plains station, platform 3",, -27.567139, 153.035766,1,https://translink.com.au/stop/600205/gtfs/,0,place_cppsta,3
+600206,600206,"Banoon station, platform 1",, -27.576523, 153.046707,1,https://translink.com.au/stop/600206/gtfs/,0,place_bansta,1
+600207,600207,"Banoon station, platform 2",, -27.576643, 153.046617,1,https://translink.com.au/stop/600207/gtfs/,0,place_bansta,2
+600208,600208,"Banoon station, platform 3",, -27.576270, 153.046240,1,https://translink.com.au/stop/600208/gtfs/,0,place_bansta,3
+600209,600209,"Sunnybank station, platform 1",, -27.580756, 153.053910,1,https://translink.com.au/stop/600209/gtfs/,0,place_sunsta,1
+600210,600210,"Sunnybank station, platform 2",, -27.580885, 153.053944,1,https://translink.com.au/stop/600210/gtfs/,0,place_sunsta,2
+600211,600211,"Sunnybank station, platform 3",, -27.580888, 153.053804,1,https://translink.com.au/stop/600211/gtfs/,0,place_sunsta,3
+600212,600212,"Altandi station, platform 1",, -27.582799, 153.063808,1,https://translink.com.au/stop/600212/gtfs/,0,place_altsta,1
+600213,600213,"Altandi station, platform 2",, -27.582624, 153.063720,1,https://translink.com.au/stop/600213/gtfs/,0,place_altsta,2
+600214,600214,"Altandi station, platform 3",, -27.582790, 153.063664,1,https://translink.com.au/stop/600214/gtfs/,0,place_altsta,3
+600215,600215,"Runcorn station, platform 1",, -27.592412, 153.068614,1,https://translink.com.au/stop/600215/gtfs/,0,place_runsta,1
+600216,600216,"Runcorn station, platform 2",, -27.592535, 153.068600,1,https://translink.com.au/stop/600216/gtfs/,0,place_runsta,2
+600217,600217,"Runcorn station, platform 3",, -27.592492, 153.068543,1,https://translink.com.au/stop/600217/gtfs/,0,place_runsta,3
+600218,600218,"Fruitgrove station, platform 1",, -27.598214, 153.079848,1,https://translink.com.au/stop/600218/gtfs/,0,place_frusta,1
+600219,600219,"Fruitgrove station, platform 2",, -27.598206, 153.079828,1,https://translink.com.au/stop/600219/gtfs/,0,place_frusta,2
+600220,600220,"Fruitgrove station, platform 3",, -27.598314, 153.079779,1,https://translink.com.au/stop/600220/gtfs/,0,place_frusta,3
+600221,600221,"Kuraby station, platform 1",, -27.604958, 153.091641,1,https://translink.com.au/stop/600221/gtfs/,0,place_kursta,1
+600222,600222,"Kuraby station, platform 2",, -27.605087, 153.091575,1,https://translink.com.au/stop/600222/gtfs/,0,place_kursta,2
+600223,600223,"Kuraby station, platform 3",, -27.605035, 153.091491,1,https://translink.com.au/stop/600223/gtfs/,0,place_kursta,3
+600224,600224,"Trinder Park station, platform 1",, -27.631755, 153.097875,1,https://translink.com.au/stop/600224/gtfs/,0,place_trista,1
+600225,600225,"Trinder Park station, platform 2",, -27.631798, 153.097882,1,https://translink.com.au/stop/600225/gtfs/,0,place_trista,2
+600226,600226,"Woodridge station, platform 1",, -27.638053, 153.103835,1,https://translink.com.au/stop/600226/gtfs/,0,place_wdrsta,1
+600227,600227,"Woodridge station, platform 2",, -27.638135, 153.103770,1,https://translink.com.au/stop/600227/gtfs/,0,place_wdrsta,2
+600228,600228,"Kingston station, platform 1",, -27.657283, 153.117992,1,https://translink.com.au/stop/600228/gtfs/,0,place_kgtsta,1
+600229,600229,"Kingston station, platform 2",, -27.657385, 153.117958,1,https://translink.com.au/stop/600229/gtfs/,0,place_kgtsta,2
+600230,600230,"Loganlea station, platform 1",, -27.670818, 153.138120,1,https://translink.com.au/stop/600230/gtfs/,0,place_logsta,1
+600231,600231,"Loganlea station, platform 2",, -27.670838, 153.138188,1,https://translink.com.au/stop/600231/gtfs/,0,place_logsta,2
+600232,600232,"Bethania station, platform 1",, -27.688088, 153.158380,1,https://translink.com.au/stop/600232/gtfs/,0,place_betsta,1
+600233,600233,"Bethania station, platform 2",, -27.688189, 153.158345,1,https://translink.com.au/stop/600233/gtfs/,0,place_betsta,2
+600235,600235,"Edens Landing station, platform 1",, -27.698208, 153.170404,1,https://translink.com.au/stop/600235/gtfs/,0,place_edesta,1
+600236,600236,"Edens Landing station, platform 2",, -27.698205, 153.170479,1,https://translink.com.au/stop/600236/gtfs/,0,place_edesta,2
+600237,600237,"Holmview station, platform 1",, -27.709612, 153.187577,1,https://translink.com.au/stop/600237/gtfs/,0,place_holsta,1
+600238,600238,"Holmview station, platform 2",, -27.709673, 153.187500,1,https://translink.com.au/stop/600238/gtfs/,0,place_holsta,2
+600239,600239,"Beenleigh station, platform 1",, -27.717459, 153.204539,1,https://translink.com.au/stop/600239/gtfs/,0,place_beesta,1
+600240,600240,"Beenleigh station, platform 2",, -27.717539, 153.204472,1,https://translink.com.au/stop/600240/gtfs/,0,place_beesta,2
+600241,600241,"Ormeau station, platform 1",, -27.799141, 153.282359,1,https://translink.com.au/stop/600241/gtfs/,0,place_omesta,1
+600242,600242,"Ormeau station, platform 2",, -27.799196, 153.282438,1,https://translink.com.au/stop/600242/gtfs/,0,place_omesta,2
+600243,600243,"Coomera station, platform 1",, -27.852816, 153.317656,1,https://translink.com.au/stop/600243/gtfs/,0,place_cmrstn,1
+600244,600244,"Coomera station, platform 2",, -27.852886, 153.317526,1,https://translink.com.au/stop/600244/gtfs/,0,place_cmrstn,2
+600245,600245,"Helensvale station, platform 2",, -27.925491, 153.338919,1,https://translink.com.au/stop/600245/gtfs/,0,place_helsta,2
+600246,600246,"Robina station, platform 2",, -28.071734, 153.377992,1,https://translink.com.au/stop/600246/gtfs/,0,place_rbnsta,2
+600247,600247,"Varsity Lakes station, platform 1",, -28.097154, 153.399411,1,https://translink.com.au/stop/600247/gtfs/,0,place_varsta,1
+600248,600248,"Buranda station, platform 1",, -27.496491, 153.040441,1,https://translink.com.au/stop/600248/gtfs/,0,place_brdsta,1
+600249,600249,"Buranda station, platform 2",, -27.496544, 153.040469,1,https://translink.com.au/stop/600249/gtfs/,0,place_brdsta,2
+600250,600250,"Coorparoo station, platform 2",, -27.489563, 153.055126,1,https://translink.com.au/stop/600250/gtfs/,0,place_coosta,2
+600251,600251,"Coorparoo station, platform 1",, -27.489617, 153.055233,1,https://translink.com.au/stop/600251/gtfs/,0,place_coosta,1
+600252,600252,"Norman Park station, platform 1",, -27.481618, 153.062243,1,https://translink.com.au/stop/600252/gtfs/,0,place_npksta,1
+600253,600253,"Norman Park station, platform 2",, -27.481669, 153.062273,1,https://translink.com.au/stop/600253/gtfs/,0,place_npksta,2
+600254,600254,"Morningside station, platform 1",, -27.470874, 153.069393,1,https://translink.com.au/stop/600254/gtfs/,0,place_mgssta,1
+600255,600255,"Morningside station, platform 2",, -27.470954, 153.069551,1,https://translink.com.au/stop/600255/gtfs/,0,place_mgssta,2
+600256,600256,"Cannon Hill station, platform 1",, -27.465380, 153.088239,1,https://translink.com.au/stop/600256/gtfs/,0,place_cansta,1
+600257,600257,"Cannon Hill station, platform 2",, -27.465364, 153.088341,1,https://translink.com.au/stop/600257/gtfs/,0,place_cansta,2
+600258,600258,"Murarrie station, platform 2",, -27.464642, 153.105656,1,https://translink.com.au/stop/600258/gtfs/,0,place_mursta,2
+600259,600259,"Murarrie station, platform 1",, -27.464662, 153.105562,1,https://translink.com.au/stop/600259/gtfs/,0,place_mursta,1
+600260,600260,"Hemmant station, platform 1",, -27.447316, 153.127344,1,https://translink.com.au/stop/600260/gtfs/,0,place_hemsta,1
+600261,600261,"Hemmant station, platform 2",, -27.447389, 153.127372,1,https://translink.com.au/stop/600261/gtfs/,0,place_hemsta,2
+600262,600262,"Lindum station, platform 2",, -27.441902, 153.144962,1,https://translink.com.au/stop/600262/gtfs/,0,place_linsta,2
+600263,600263,"Lindum station, platform 1",, -27.441942, 153.144876,1,https://translink.com.au/stop/600263/gtfs/,0,place_linsta,1
+600264,600264,"Wynnum North station, platform 2",, -27.437232, 153.158698,1,https://translink.com.au/stop/600264/gtfs/,0,place_wyhsta,2
+600265,600265,"Wynnum North station, platform 1",, -27.437207, 153.158588,1,https://translink.com.au/stop/600265/gtfs/,0,place_wyhsta,1
+600266,600266,"Wynnum station, platform 1",, -27.439690, 153.166196,1,https://translink.com.au/stop/600266/gtfs/,0,place_wnmsta,1
+600267,600267,"Wynnum station, platform 2",, -27.439728, 153.166087,1,https://translink.com.au/stop/600267/gtfs/,0,place_wnmsta,2
+600269,600269,"Lota station, platform 1",, -27.470014, 153.188519,1,https://translink.com.au/stop/600269/gtfs/,0,place_lotsta,1
+600270,600270,"Lota station, platform 2",, -27.470004, 153.188414,1,https://translink.com.au/stop/600270/gtfs/,0,place_lotsta,2
+600271,600271,"Thorneside station, platform 1",, -27.486124, 153.192703,1,https://translink.com.au/stop/600271/gtfs/,0,place_thosta,1
+600272,600272,"Thorneside station, platform 2",, -27.486191, 153.192607,1,https://translink.com.au/stop/600272/gtfs/,0,place_thosta,2
+600273,600273,"Birkdale station, platform 1",, -27.494073, 153.218722,1,https://translink.com.au/stop/600273/gtfs/,0,place_birsta,1
+600274,600274,"Wellington Point station, platform 2",, -27.494486, 153.241936,1,https://translink.com.au/stop/600274/gtfs/,0,place_welsta,2
+600275,600275,"Wellington Point station, platform 1",, -27.494311, 153.242013,1,https://translink.com.au/stop/600275/gtfs/,0,place_welsta,1
+600276,600276,"Ormiston station, platform 1",, -27.514525, 153.255831,1,https://translink.com.au/stop/600276/gtfs/,0,place_ormsta,1
+600277,600277,"Cleveland station, platform 1",, -27.524199, 153.265926,1,https://translink.com.au/stop/600277/gtfs/,0,place_clesta,1
+600278,600278,"Cleveland station, platform 2",, -27.524287, 153.265929,1,https://translink.com.au/stop/600278/gtfs/,0,place_clesta,2
+600279,600279,"Milton station, platform 1",, -27.468965, 153.005197,1,https://translink.com.au/stop/600279/gtfs/,0,place_milsta,1
+600280,600280,"Milton station, platform 2",, -27.468930, 153.005299,1,https://translink.com.au/stop/600280/gtfs/,0,place_milsta,2
+600281,600281,"Milton station, platform 3",, -27.468814, 153.005241,1,https://translink.com.au/stop/600281/gtfs/,0,place_milsta,3
+600282,600282,"Milton station, platform 4",, -27.468852, 153.005125,1,https://translink.com.au/stop/600282/gtfs/,0,place_milsta,4
+600283,600283,"Auchenflower station, platform 1",, -27.476098, 152.996936,1,https://translink.com.au/stop/600283/gtfs/,0,place_aucsta,1
+600284,600284,"Auchenflower station, platform 2",, -27.476127, 152.996928,1,https://translink.com.au/stop/600284/gtfs/,0,place_aucsta,2
+600285,600285,"Auchenflower station, platform 3",, -27.476100, 152.996863,1,https://translink.com.au/stop/600285/gtfs/,0,place_aucsta,3
+600286,600286,"Auchenflower station, platform 4",, -27.476070, 152.996875,1,https://translink.com.au/stop/600286/gtfs/,0,place_aucsta,4
+600287,600287,"Toowong station, platform 1",, -27.485334, 152.993169,1,https://translink.com.au/stop/600287/gtfs/,0,place_twgsta,1
+600288,600288,"Toowong station, platform 2",, -27.485269, 152.993086,1,https://translink.com.au/stop/600288/gtfs/,0,place_twgsta,2
+600289,600289,"Toowong station, platform 3",, -27.485376, 152.993056,1,https://translink.com.au/stop/600289/gtfs/,0,place_twgsta,3
+600290,600290,"Toowong station, platform 4",, -27.485310, 152.992970,1,https://translink.com.au/stop/600290/gtfs/,0,place_twgsta,4
+600291,600291,"Taringa station, platform 1",, -27.493243, 152.981426,1,https://translink.com.au/stop/600291/gtfs/,0,place_tarsta,1
+600292,600292,"Taringa station, platform 2",, -27.493172, 152.981428,1,https://translink.com.au/stop/600292/gtfs/,0,place_tarsta,2
+600293,600293,"Taringa station, platform 3",, -27.493188, 152.981371,1,https://translink.com.au/stop/600293/gtfs/,0,place_tarsta,3
+600294,600294,"Taringa station, platform 4",, -27.493115, 152.981372,1,https://translink.com.au/stop/600294/gtfs/,0,place_tarsta,4
+600295,600295,"Indooroopilly station, platform 1",, -27.503071, 152.975837,1,https://translink.com.au/stop/600295/gtfs/,0,place_indsta,1
+600296,600296,"Indooroopilly station, platform 2",, -27.503012, 152.975773,1,https://translink.com.au/stop/600296/gtfs/,0,place_indsta,2
+600297,600297,"Indooroopilly station, platform 3",, -27.503060, 152.975732,1,https://translink.com.au/stop/600297/gtfs/,0,place_indsta,3
+600298,600298,"Indooroopilly station, platform 4",, -27.502975, 152.975693,1,https://translink.com.au/stop/600298/gtfs/,0,place_indsta,4
+600299,600299,"Chelmer station, platform 1",, -27.512172, 152.972908,1,https://translink.com.au/stop/600299/gtfs/,0,place_chesta,1
+600300,600300,"Chelmer station, platform 2",, -27.512160, 152.972761,1,https://translink.com.au/stop/600300/gtfs/,0,place_chesta,2
+600301,600301,"Chelmer station, platform 3",, -27.512230, 152.972761,1,https://translink.com.au/stop/600301/gtfs/,0,place_chesta,3
+600302,600302,"Chelmer station, platform 4",, -27.512188, 152.972629,1,https://translink.com.au/stop/600302/gtfs/,0,place_chesta,4
+600303,600303,"Graceville station, platform 1",, -27.520674, 152.976024,1,https://translink.com.au/stop/600303/gtfs/,0,place_grasta,1
+600304,600304,"Graceville station, platform 2",, -27.520676, 152.975915,1,https://translink.com.au/stop/600304/gtfs/,0,place_grasta,2
+600305,600305,"Graceville station, platform 3",, -27.520823, 152.975982,1,https://translink.com.au/stop/600305/gtfs/,0,place_grasta,3
+600306,600306,"Graceville station, platform 4",, -27.520759, 152.975841,1,https://translink.com.au/stop/600306/gtfs/,0,place_grasta,4
+600309,600309,"Sherwood station, platform 1",, -27.531230, 152.979649,1,https://translink.com.au/stop/600309/gtfs/,0,place_shesta,1
+600310,600310,"Sherwood station, platform 2",, -27.531152, 152.979492,1,https://translink.com.au/stop/600310/gtfs/,0,place_shesta,2
+600311,600311,"Sherwood station, platform 3",, -27.531351, 152.979512,1,https://translink.com.au/stop/600311/gtfs/,0,place_shesta,3
+600312,600312,"Sherwood station, platform 4",, -27.531257, 152.979386,1,https://translink.com.au/stop/600312/gtfs/,0,place_shesta,4
+600314,600314,"Corinda station, platform 2",, -27.539174, 152.980089,1,https://translink.com.au/stop/600314/gtfs/,0,place_corsta,2
+600315,600315,"Corinda station, platform 3",, -27.539106, 152.980099,1,https://translink.com.au/stop/600315/gtfs/,0,place_corsta,3
+600316,600316,"Corinda station, platform 4",, -27.539145, 152.979978,1,https://translink.com.au/stop/600316/gtfs/,0,place_corsta,4
+600317,600317,"Corinda station, platform 5",, -27.539059, 152.979986,1,https://translink.com.au/stop/600317/gtfs/,0,place_corsta,5
+600318,600318,"Oxley station, platform 1",, -27.552183, 152.973948,1,https://translink.com.au/stop/600318/gtfs/,0,place_oxlsta,1
+600319,600319,"Oxley station, platform 2",, -27.552199, 152.973732,1,https://translink.com.au/stop/600319/gtfs/,0,place_oxlsta,2
+600320,600320,"Oxley station, platform 3",, -27.552284, 152.973665,1,https://translink.com.au/stop/600320/gtfs/,0,place_oxlsta,3
+600321,600321,"Darra station, platform 1",, -27.565959, 152.952488,1,https://translink.com.au/stop/600321/gtfs/,0,place_darsta,1
+600322,600322,"Darra station, platform 2",, -27.565946, 152.952571,1,https://translink.com.au/stop/600322/gtfs/,0,place_darsta,2
+600323,600323,"Darra station, platform 3",, -27.565767, 152.952431,1,https://translink.com.au/stop/600323/gtfs/,0,place_darsta,3
+600324,600324,"Darra station, platform 4",, -27.565749, 152.952517,1,https://translink.com.au/stop/600324/gtfs/,0,place_darsta,4
+600325,600325,"Richlands station, platform 1",, -27.596197, 152.946944,1,https://translink.com.au/stop/600325/gtfs/,0,place_ricsta,1
+600326,600326,"Richlands station, platform 2",, -27.596148, 152.946756,1,https://translink.com.au/stop/600326/gtfs/,0,place_ricsta,2
+600327,600327,"Wacol station, platform 1",, -27.589327, 152.924231,1,https://translink.com.au/stop/600327/gtfs/,0,place_wacsta,1
+600328,600328,"Wacol station, platform 2",, -27.589163, 152.924332,1,https://translink.com.au/stop/600328/gtfs/,0,place_wacsta,2
+600329,600329,"Gailes station, platform 1",, -27.602207, 152.919087,1,https://translink.com.au/stop/600329/gtfs/,0,place_gaista,1
+600330,600330,"Gailes station, platform 2",, -27.602297, 152.919042,1,https://translink.com.au/stop/600330/gtfs/,0,place_gaista,2
+600331,600331,"Goodna station, platform 1",, -27.608813, 152.901277,1,https://translink.com.au/stop/600331/gtfs/,0,place_goosta,1
+600332,600332,"Goodna station, platform 2",, -27.608707, 152.901310,1,https://translink.com.au/stop/600332/gtfs/,0,place_goosta,2
+600333,600333,"Redbank station, platform 1",, -27.599428, 152.872686,1,https://translink.com.au/stop/600333/gtfs/,0,place_redsta,1
+600334,600334,"Redbank station, platform 2",, -27.599460, 152.872518,1,https://translink.com.au/stop/600334/gtfs/,0,place_redsta,2
+600335,600335,"Riverview station, platform 1",, -27.594974, 152.850543,1,https://translink.com.au/stop/600335/gtfs/,0,place_rivsta,1
+600336,600336,"Riverview station, platform 2",, -27.594959, 152.850487,1,https://translink.com.au/stop/600336/gtfs/,0,place_rivsta,2
+600337,600337,"Dinmore station, platform 1",, -27.596336, 152.833564,1,https://translink.com.au/stop/600337/gtfs/,0,place_dinsta,1
+600338,600338,"Dinmore station, platform 2",, -27.596370, 152.833429,1,https://translink.com.au/stop/600338/gtfs/,0,place_dinsta,2
+600339,600339,"Ebbw Vale station, platform 1",, -27.603385, 152.822071,1,https://translink.com.au/stop/600339/gtfs/,0,place_ebbsta,1
+600340,600340,"Ebbw Vale station, platform 2",, -27.603418, 152.822014,1,https://translink.com.au/stop/600340/gtfs/,0,place_ebbsta,2
+600341,600341,"Bundamba station, platform 1",, -27.607479, 152.804772,1,https://translink.com.au/stop/600341/gtfs/,0,place_bunsta,1
+600342,600342,"Bundamba station, platform 2",, -27.607476, 152.804634,1,https://translink.com.au/stop/600342/gtfs/,0,place_bunsta,2
+600343,600343,"Booval station, platform 1",, -27.609331, 152.789665,1,https://translink.com.au/stop/600343/gtfs/,0,place_bvlsta,1
+600344,600344,"Booval station, platform 2",, -27.609347, 152.789479,1,https://translink.com.au/stop/600344/gtfs/,0,place_bvlsta,2
+600345,600345,"East Ipswich station, platform 1",, -27.610005, 152.774933,1,https://translink.com.au/stop/600345/gtfs/,0,place_eassta,1
+600346,600346,"East Ipswich station, platform 2",, -27.609988, 152.774727,1,https://translink.com.au/stop/600346/gtfs/,0,place_eassta,2
+600347,600347,"Ipswich station, platform 1",, -27.613039, 152.760794,1,https://translink.com.au/stop/600347/gtfs/,0,place_ipssta,1
+600348,600348,"Ipswich station, platform 2",, -27.612920, 152.760917,1,https://translink.com.au/stop/600348/gtfs/,0,place_ipssta,2
+600349,600349,"Ipswich station, platform 3",, -27.612901, 152.760686,1,https://translink.com.au/stop/600349/gtfs/,0,place_ipssta,3
+600351,600351,"Thomas Street station, platform 1",, -27.614828, 152.745462,1,https://translink.com.au/stop/600351/gtfs/,0,place_thmsta,1
+600352,600352,"Thomas Street station, platform 2",, -27.614825, 152.745380,1,https://translink.com.au/stop/600352/gtfs/,0,place_thmsta,2
+600353,600353,"Wulkuraka station, platform 1",, -27.613639, 152.732869,1,https://translink.com.au/stop/600353/gtfs/,0,place_wulsta,1
+600354,600354,"Wulkuraka station, platform 2",, -27.613605, 152.732714,1,https://translink.com.au/stop/600354/gtfs/,0,place_wulsta,2
+600355,600355,"Karrabin station, platform 1",, -27.604299, 152.708954,1,https://translink.com.au/stop/600355/gtfs/,0,place_karsta,1
+600356,600356,"Karrabin station, platform 2",, -27.604385, 152.709138,1,https://translink.com.au/stop/600356/gtfs/,0,place_karsta,2
+600358,600358,"Walloon station, platform 1",, -27.607317, 152.667785,1,https://translink.com.au/stop/600358/gtfs/,0,place_walsta,1
+600359,600359,"Walloon station, platform 2",, -27.607305, 152.667876,1,https://translink.com.au/stop/600359/gtfs/,0,place_walsta,2
+600360,600360,"Thagoona station, platform 1",, -27.626825, 152.629976,1,https://translink.com.au/stop/600360/gtfs/,0,place_thasta,1
+600361,600361,"Thagoona station, platform 2",, -27.626865, 152.629895,1,https://translink.com.au/stop/600361/gtfs/,0,place_thasta,2
+600362,600362,"Rosewood station, platform 1",, -27.643222, 152.592522,1,https://translink.com.au/stop/600362/gtfs/,0,place_rossta,1
+600365,600365,"Albion station, platform 1",, -27.429359, 153.040389,1,https://translink.com.au/stop/600365/gtfs/,0,place_albsta,1
+600366,600366,"Albion station, platform 2",, -27.429310, 153.040437,1,https://translink.com.au/stop/600366/gtfs/,0,place_albsta,2
+600367,600367,"Albion station, platform 3",, -27.429272, 153.040336,1,https://translink.com.au/stop/600367/gtfs/,0,place_albsta,3
+600368,600368,"Albion station, platform 4",, -27.429240, 153.040367,1,https://translink.com.au/stop/600368/gtfs/,0,place_albsta,4
+600369,600369,"Windsor station, platform 1",, -27.435285, 153.028996,1,https://translink.com.au/stop/600369/gtfs/,0,place_winsta,1
+600370,600370,"Windsor station, platform 2",, -27.435384, 153.029017,1,https://translink.com.au/stop/600370/gtfs/,0,place_winsta,2
+600371,600371,"Wilston station, platform 1",, -27.436168, 153.019219,1,https://translink.com.au/stop/600371/gtfs/,0,place_wilsta,1
+600372,600372,"Wilston station, platform 2",, -27.436290, 153.019151,1,https://translink.com.au/stop/600372/gtfs/,0,place_wilsta,2
+600373,600373,"Newmarket station, platform 1",, -27.432848, 153.010747,1,https://translink.com.au/stop/600373/gtfs/,0,place_newsta,1
+600374,600374,"Newmarket station, platform 2",, -27.432949, 153.010540,1,https://translink.com.au/stop/600374/gtfs/,0,place_newsta,2
+600375,600375,"Alderley station, platform 2",, -27.423306, 153.000804,1,https://translink.com.au/stop/600375/gtfs/,0,place_aldsta,2
+600376,600376,"Alderley station, platform 1",, -27.423270, 153.000892,1,https://translink.com.au/stop/600376/gtfs/,0,place_aldsta,1
+600377,600377,"Enoggera station, platform 1",, -27.420321, 152.992473,1,https://translink.com.au/stop/600377/gtfs/,0,place_enosta,1
+600378,600378,"Enoggera station, platform 2",, -27.420412, 152.992414,1,https://translink.com.au/stop/600378/gtfs/,0,place_enosta,2
+600379,600379,"Gaythorne station, platform 1",, -27.419038, 152.984744,1,https://translink.com.au/stop/600379/gtfs/,0,place_gaysta,1
+600380,600380,"Gaythorne station, platform 2",, -27.419080, 152.984819,1,https://translink.com.au/stop/600380/gtfs/,0,place_gaysta,2
+600381,600381,"Mitchelton station, platform 1",, -27.411575, 152.976099,1,https://translink.com.au/stop/600381/gtfs/,0,place_mitsta,1
+600382,600382,"Mitchelton station, platform 2",, -27.411677, 152.976006,1,https://translink.com.au/stop/600382/gtfs/,0,place_mitsta,2
+600383,600383,"Oxford Park station, platform 1",, -27.404375, 152.969026,1,https://translink.com.au/stop/600383/gtfs/,0,place_oxfsta,1
+600384,600384,"Oxford Park station, platform 2",, -27.404514, 152.968977,1,https://translink.com.au/stop/600384/gtfs/,0,place_oxfsta,2
+600385,600385,"Grovely station, platform 1",, -27.404595, 152.962519,1,https://translink.com.au/stop/600385/gtfs/,0,place_grosta,1
+600386,600386,"Grovely station, platform 2",, -27.404559, 152.962543,1,https://translink.com.au/stop/600386/gtfs/,0,place_grosta,2
+600387,600387,"Keperra station, platform 1",, -27.409128, 152.956760,1,https://translink.com.au/stop/600387/gtfs/,0,place_kepsta,1
+600388,600388,"Keperra station, platform 2",, -27.409291, 152.956892,1,https://translink.com.au/stop/600388/gtfs/,0,place_kepsta,2
+600389,600389,"Ferny Grove station, platform 1",, -27.401674, 152.935687,1,https://translink.com.au/stop/600389/gtfs/,0,place_fersta,1
+600390,600390,"Ferny Grove station, platform 2",, -27.401753, 152.935607,1,https://translink.com.au/stop/600390/gtfs/,0,place_fersta,2
+600391,600391,"Wooloowin station, platform 1",, -27.419606, 153.043636,1,https://translink.com.au/stop/600391/gtfs/,0,place_wolsta,1
+600392,600392,"Wooloowin station, platform 2",, -27.419687, 153.043603,1,https://translink.com.au/stop/600392/gtfs/,0,place_wolsta,2
+600393,600393,"Wooloowin station, platform 3",, -27.419654, 153.043525,1,https://translink.com.au/stop/600393/gtfs/,0,place_wolsta,3
+600394,600394,"Wooloowin station, platform 4",, -27.419585, 153.043551,1,https://translink.com.au/stop/600394/gtfs/,0,place_wolsta,4
+600395,600395,"Eagle Junction station, platform 1",, -27.415535, 153.049684,1,https://translink.com.au/stop/600395/gtfs/,0,place_egjsta,1
+600396,600396,"Eagle Junction station, platform 2",, -27.415420, 153.049529,1,https://translink.com.au/stop/600396/gtfs/,0,place_egjsta,2
+600397,600397,"Toombul station, platform 1",, -27.407816, 153.059143,1,https://translink.com.au/stop/600397/gtfs/,0,place_tomsta,1
+600398,600398,"Toombul station, platform 2",, -27.407951, 153.059037,1,https://translink.com.au/stop/600398/gtfs/,0,place_tomsta,2
+600399,600399,"Toombul station, platform 3",, -27.407724, 153.059011,1,https://translink.com.au/stop/600399/gtfs/,0,place_tomsta,3
+600400,600400,"Toombul station, platform 4",, -27.407653, 153.058872,1,https://translink.com.au/stop/600400/gtfs/,0,place_tomsta,4
+600401,600401,"Eagle Junction station, platform 3",, -27.415427, 153.049899,1,https://translink.com.au/stop/600401/gtfs/,0,place_egjsta,3
+600402,600402,"Eagle Junction station, platform 4",, -27.415319, 153.049678,1,https://translink.com.au/stop/600402/gtfs/,0,place_egjsta,4
+600403,600403,"Nundah station, platform 1",, -27.400946, 153.062200,1,https://translink.com.au/stop/600403/gtfs/,0,place_nunsta,1
+600404,600404,"Nundah station, platform 2",, -27.400897, 153.062081,1,https://translink.com.au/stop/600404/gtfs/,0,place_nunsta,2
+600405,600405,"Nundah station, platform 3",, -27.400812, 153.062096,1,https://translink.com.au/stop/600405/gtfs/,0,place_nunsta,3
+600406,600406,"Nundah station, platform 4",, -27.400806, 153.061958,1,https://translink.com.au/stop/600406/gtfs/,0,place_nunsta,4
+600407,600407,"Northgate station, platform 1",, -27.393135, 153.069324,1,https://translink.com.au/stop/600407/gtfs/,0,place_norsta,1
+600408,600408,"Northgate station, platform 2",, -27.393085, 153.069260,1,https://translink.com.au/stop/600408/gtfs/,0,place_norsta,2
+600409,600409,"Northgate station, platform 3",, -27.393160, 153.069239,1,https://translink.com.au/stop/600409/gtfs/,0,place_norsta,3
+600410,600410,"Northgate station, platform 4",, -27.393117, 153.069177,1,https://translink.com.au/stop/600410/gtfs/,0,place_norsta,4
+600411,600411,"Bindha station, platform 1",, -27.382943, 153.072665,1,https://translink.com.au/stop/600411/gtfs/,0,place_binsta,1
+600412,600412,"Bindha station, platform 2",, -27.382906, 153.072572,1,https://translink.com.au/stop/600412/gtfs/,0,place_binsta,2
+600413,600413,"Banyo station, platform 1",, -27.374379, 153.077503,1,https://translink.com.au/stop/600413/gtfs/,0,place_baysta,1
+600414,600414,"Banyo station, platform 2",, -27.374555, 153.077396,1,https://translink.com.au/stop/600414/gtfs/,0,place_baysta,2
+600415,600415,"Nudgee station, platform 1",, -27.366033, 153.083469,1,https://translink.com.au/stop/600415/gtfs/,0,place_nudsta,1
+600416,600416,"Nudgee station, platform 2",, -27.366135, 153.083384,1,https://translink.com.au/stop/600416/gtfs/,0,place_nudsta,2
+600417,600417,"Boondall station, platform 1",, -27.346311, 153.067589,1,https://translink.com.au/stop/600417/gtfs/,0,place_bdlsta,1
+600418,600418,"Boondall station, platform 2",, -27.346390, 153.067662,1,https://translink.com.au/stop/600418/gtfs/,0,place_bdlsta,2
+600419,600419,"North Boondall station, platform 1",, -27.338552, 153.060617,1,https://translink.com.au/stop/600419/gtfs/,0,place_nobsta,1
+600420,600420,"North Boondall station, platform 2",, -27.338627, 153.060656,1,https://translink.com.au/stop/600420/gtfs/,0,place_nobsta,2
+600421,600421,"Deagon station, platform 1",, -27.327813, 153.063212,1,https://translink.com.au/stop/600421/gtfs/,0,place_deasta,1
+600422,600422,"Deagon station, platform 2",, -27.327903, 153.063162,1,https://translink.com.au/stop/600422/gtfs/,0,place_deasta,2
+600423,600423,"Sandgate station, platform 2",, -27.322217, 153.069196,1,https://translink.com.au/stop/600423/gtfs/,0,place_sgtsta,2
+600424,600424,"Sandgate station, platform 1",, -27.322193, 153.069043,1,https://translink.com.au/stop/600424/gtfs/,0,place_sgtsta,1
+600425,600425,"Shorncliffe station, platform 1",, -27.327328, 153.081116,1,https://translink.com.au/stop/600425/gtfs/,0,place_shnsta,1
+600426,600426,"International Airport station, platform 1",, -27.402853, 153.108633,1,https://translink.com.au/stop/600426/gtfs/,0,place_intsta,1
+600427,600427,"International Airport station, platform 2",, -27.402805, 153.108594,1,https://translink.com.au/stop/600427/gtfs/,0,place_intsta,2
+600428,600428,"Domestic Airport station, platform 1",, -27.385205, 153.118904,1,https://translink.com.au/stop/600428/gtfs/,0,place_domsta,1
+600429,600429,"Domestic Airport station, platform 2",, -27.385167, 153.118843,1,https://translink.com.au/stop/600429/gtfs/,0,place_domsta,2
+600430,600430,"Clayfield station, platform 1",, -27.418015, 153.057614,1,https://translink.com.au/stop/600430/gtfs/,0,place_clasta,1
+600432,600432,"Hendra station, platform 1",, -27.421971, 153.062443,1,https://translink.com.au/stop/600432/gtfs/,0,place_hensta,1
+600433,600433,"Ascot station, platform 1",, -27.429443, 153.063380,1,https://translink.com.au/stop/600433/gtfs/,0,place_ascsta,1
+600435,600435,"Doomben station, platform 1",, -27.431455, 153.074687,1,https://translink.com.au/stop/600435/gtfs/,0,place_dbnsta,1
+600437,600437,"Virginia station, platform 1",, -27.382132, 153.062492,1,https://translink.com.au/stop/600437/gtfs/,0,place_virsta,1
+600438,600438,"Virginia station, platform 2",, -27.382158, 153.062367,1,https://translink.com.au/stop/600438/gtfs/,0,place_virsta,2
+600439,600439,"Virginia station, platform 3",, -27.382269, 153.062446,1,https://translink.com.au/stop/600439/gtfs/,0,place_virsta,3
+600440,600440,"Sunshine station, platform 1",, -27.375693, 153.056359,1,https://translink.com.au/stop/600440/gtfs/,0,place_snssta,1
+600441,600441,"Sunshine station, platform 2",, -27.375593, 153.056238,1,https://translink.com.au/stop/600441/gtfs/,0,place_snssta,2
+600442,600442,"Sunshine station, platform 3",, -27.375748, 153.056183,1,https://translink.com.au/stop/600442/gtfs/,0,place_snssta,3
+600443,600443,"Geebung station, platform 1",, -27.368740, 153.047358,1,https://translink.com.au/stop/600443/gtfs/,0,place_geesta,1
+600444,600444,"Geebung station, platform 2",, -27.368928, 153.047417,1,https://translink.com.au/stop/600444/gtfs/,0,place_geesta,2
+600445,600445,"Geebung station, platform 3",, -27.368733, 153.047105,1,https://translink.com.au/stop/600445/gtfs/,0,place_geesta,3
+600446,600446,"Zillmere station, platform 1",, -27.358823, 153.036877,1,https://translink.com.au/stop/600446/gtfs/,0,place_zllsta,1
+600447,600447,"Zillmere station, platform 2",, -27.358945, 153.036757,1,https://translink.com.au/stop/600447/gtfs/,0,place_zllsta,2
+600448,600448,"Zillmere station, platform 3",, -27.358814, 153.036659,1,https://translink.com.au/stop/600448/gtfs/,0,place_zllsta,3
+600449,600449,"Carseldine station, platform 1",, -27.347236, 153.028963,1,https://translink.com.au/stop/600449/gtfs/,0,place_cassta,1
+600450,600450,"Carseldine station, platform 2",, -27.347310, 153.028831,1,https://translink.com.au/stop/600450/gtfs/,0,place_cassta,2
+600451,600451,"Carseldine station, platform 3",, -27.347488, 153.028885,1,https://translink.com.au/stop/600451/gtfs/,0,place_cassta,3
+600452,600452,"Bald Hills station, platform 1",, -27.320861, 153.011313,1,https://translink.com.au/stop/600452/gtfs/,0,place_balsta,1
+600453,600453,"Bald Hills station, platform 2",, -27.320967, 153.011155,1,https://translink.com.au/stop/600453/gtfs/,0,place_balsta,2
+600454,600454,"Bald Hills station, platform 3",, -27.321120, 153.011349,1,https://translink.com.au/stop/600454/gtfs/,0,place_balsta,3
+600455,600455,"Strathpine station, platform 1",, -27.311016, 152.989562,1,https://translink.com.au/stop/600455/gtfs/,0,place_strsta,1
+600456,600456,"Strathpine station, platform 2",, -27.311235, 152.989628,1,https://translink.com.au/stop/600456/gtfs/,0,place_strsta,2
+600457,600457,"Strathpine station, platform 3",, -27.311272, 152.989487,1,https://translink.com.au/stop/600457/gtfs/,0,place_strsta,3
+600458,600458,"Bray Park station, platform 1",, -27.299803, 152.986252,1,https://translink.com.au/stop/600458/gtfs/,0,place_brasta,1
+600459,600459,"Bray Park station, platform 2",, -27.299699, 152.986217,1,https://translink.com.au/stop/600459/gtfs/,0,place_brasta,2
+600460,600460,"Bray Park station, platform 3",, -27.299720, 152.986076,1,https://translink.com.au/stop/600460/gtfs/,0,place_brasta,3
+600461,600461,"Lawnton station, platform 1",, -27.281391, 152.980982,1,https://translink.com.au/stop/600461/gtfs/,0,place_lawsta,1
+600462,600462,"Lawnton station, platform 2",, -27.281536, 152.981022,1,https://translink.com.au/stop/600462/gtfs/,0,place_lawsta,2
+600463,600463,"Lawnton station, platform 3",, -27.281549, 152.980857,1,https://translink.com.au/stop/600463/gtfs/,0,place_lawsta,3
+600465,600465,"Petrie station, platform 2",, -27.268240, 152.982077,1,https://translink.com.au/stop/600465/gtfs/,0,place_petsta,2
+600466,600466,"Petrie station, platform 3",, -27.268368, 152.981985,1,https://translink.com.au/stop/600466/gtfs/,0,place_petsta,3
+600467,600467,"Dakabin station, platform 1",, -27.230450, 152.975745,1,https://translink.com.au/stop/600467/gtfs/,0,place_daksta,1
+600468,600468,"Dakabin station, platform 2",, -27.230367, 152.975718,1,https://translink.com.au/stop/600468/gtfs/,0,place_daksta,2
+600469,600469,"Narangba station, platform 1",, -27.202515, 152.960471,1,https://translink.com.au/stop/600469/gtfs/,0,place_narsta,1
+600471,600471,"Narangba station, platform 3",, -27.202378, 152.959924,1,https://translink.com.au/stop/600471/gtfs/,0,place_narsta,3
+600472,600472,"Burpengary station, platform 1",, -27.162058, 152.957240,1,https://translink.com.au/stop/600472/gtfs/,0,place_bursta,1
+600473,600473,"Burpengary station, platform 2",, -27.162009, 152.957243,1,https://translink.com.au/stop/600473/gtfs/,0,place_bursta,2
+600474,600474,"Morayfield station, platform 1",, -27.110192, 152.952586,1,https://translink.com.au/stop/600474/gtfs/,0,place_myesta,1
+600475,600475,"Morayfield station, platform 2",, -27.110234, 152.952600,1,https://translink.com.au/stop/600475/gtfs/,0,place_myesta,2
+600476,600476,"Caboolture station, platform 1",, -27.082700, 152.953649,1,https://translink.com.au/stop/600476/gtfs/,0,place_cabstn,1
+600477,600477,"Caboolture station, platform 2",, -27.082742, 152.953669,1,https://translink.com.au/stop/600477/gtfs/,0,place_cabstn,2
+600478,600478,"Caboolture station, platform 3",, -27.082678, 152.953866,1,https://translink.com.au/stop/600478/gtfs/,0,place_cabstn,3
+600479,600479,"Elimbah station, platform 1",, -27.011494, 152.945527,1,https://translink.com.au/stop/600479/gtfs/,0,place_elmsta,1
+600480,600480,"Elimbah station, platform 2",, -27.011081, 152.945611,1,https://translink.com.au/stop/600480/gtfs/,0,place_elmsta,2
+600481,600481,"Beerburrum station, platform 2",, -26.959732, 152.959040,1,https://translink.com.au/stop/600481/gtfs/,0,place_bbrsta,2
+600482,600482,"Beerburrum station, platform 1",, -26.959931, 152.959007,1,https://translink.com.au/stop/600482/gtfs/,0,place_bbrsta,1
+600483,600483,"Glass House Mountains station, platform 2",, -26.899292, 152.956273,1,https://translink.com.au/stop/600483/gtfs/,0,place_gmtsta,2
+600484,600484,"Glass House Mountains station, platform 1",, -26.899412, 152.956345,1,https://translink.com.au/stop/600484/gtfs/,0,place_gmtsta,1
+600485,600485,"Beerwah station, platform 1",, -26.857091, 152.958355,1,https://translink.com.au/stop/600485/gtfs/,0,place_bwrsta,1
+600486,600486,"Beerwah station, platform 2",, -26.857053, 152.958355,1,https://translink.com.au/stop/600486/gtfs/,0,place_bwrsta,2
+600487,600487,"Landsborough station, platform 1",, -26.807956, 152.966377,1,https://translink.com.au/stop/600487/gtfs/,0,place_lansta,1
+600488,600488,"Landsborough station, platform 2",, -26.808124, 152.966364,1,https://translink.com.au/stop/600488/gtfs/,0,place_lansta,2
+600489,600489,"Mooloolah station, platform 1",, -26.765954, 152.963262,1,https://translink.com.au/stop/600489/gtfs/,0,place_molsta,1
+600490,600490,"Eudlo station, platform 1",, -26.725850, 152.956754,1,https://translink.com.au/stop/600490/gtfs/,0,place_eudsta,1
+600491,600491,"Palmwoods station, platform 1",, -26.688683, 152.960756,1,https://translink.com.au/stop/600491/gtfs/,0,place_palsta,1
+600492,600492,"Woombye station, platform 1",, -26.660750, 152.962797,1,https://translink.com.au/stop/600492/gtfs/,0,place_wbysta,1
+600493,600493,"Nambour station, platform 1",, -26.625358, 152.958068,1,https://translink.com.au/stop/600493/gtfs/,0,place_namsta,1
+600494,600494,"Yandina station, platform 1",, -26.560603, 152.958080,1,https://translink.com.au/stop/600494/gtfs/,0,place_yansta,1
+600495,600495,"Eumundi station, platform 1",, -26.480985, 152.955033,1,https://translink.com.au/stop/600495/gtfs/,0,place_eumsta,1
+600496,600496,"Cooroy station, platform 1",, -26.418070, 152.911151,1,https://translink.com.au/stop/600496/gtfs/,0,place_crysta,1
+600497,600497,"Pomona station, platform 1",, -26.366115, 152.856666,1,https://translink.com.au/stop/600497/gtfs/,0,place_pomsta,1
+600498,600498,"Cooran station, platform 1",, -26.334098, 152.822809,1,https://translink.com.au/stop/600498/gtfs/,0,place_crnsta,1
+600499,600499,"Traveston station, platform 1",, -26.320895, 152.783804,1,https://translink.com.au/stop/600499/gtfs/,0,place_trvsta,1
+600500,600500,"Gympie North station, platform 1",, -26.159443, 152.682805,1,https://translink.com.au/stop/600500/gtfs/,0,place_gymsta,1
+600627,600627,"Petrie station, platform 4",, -27.268526, 152.982284,1,https://translink.com.au/stop/600627/gtfs/,0,place_petsta,4
+600628,600628,"Wynnum Central station, platform 1",, -27.445224, 153.170214,1,https://translink.com.au/stop/600628/gtfs/,0,place_wynsta,1
+600629,600629,"Wynnum Central station, platform 2",, -27.445269, 153.170132,1,https://translink.com.au/stop/600629/gtfs/,0,place_wynsta,2
+600630,600630,"Manly station, platform 1",, -27.457228, 153.180422,1,https://translink.com.au/stop/600630/gtfs/,0,place_mansta,1
+600631,600631,"Manly station, platform 2",, -27.457253, 153.180314,1,https://translink.com.au/stop/600631/gtfs/,0,place_mansta,2
+600632,600632,"Nambour station, platform 2",, -26.625335, 152.958092,1,https://translink.com.au/stop/600632/gtfs/,0,place_namsta,2
+600633,600633,"Kippa-Ring station, platform 1",, -27.225285, 153.081982,1,https://translink.com.au/stop/600633/gtfs/,0,place_kprsta,1
+600634,600634,"Kippa-Ring station, platform 2",, -27.225324, 153.081809,1,https://translink.com.au/stop/600634/gtfs/,0,place_kprsta,2
+600635,600635,"Rothwell station, platform 1",, -27.224071, 153.048100,1,https://translink.com.au/stop/600635/gtfs/,0,place_rotsta,1
+600636,600636,"Rothwell station, platform 2",, -27.224018, 153.047899,1,https://translink.com.au/stop/600636/gtfs/,0,place_rotsta,2
+600637,600637,"Mango Hill East station, platform 1",, -27.233566, 153.035794,1,https://translink.com.au/stop/600637/gtfs/,0,place_mhesta,1
+600638,600638,"Mango Hill East station, platform 2",, -27.233505, 153.035671,1,https://translink.com.au/stop/600638/gtfs/,0,place_mhesta,2
+600639,600639,"Mango Hill station, platform 1",, -27.246037, 153.028117,1,https://translink.com.au/stop/600639/gtfs/,0,place_mahsta,1
+600640,600640,"Mango Hill station, platform 2",, -27.246050, 153.027972,1,https://translink.com.au/stop/600640/gtfs/,0,place_mahsta,2
+600641,600641,"Murrumba Downs station, platform 1",, -27.252525, 153.011464,1,https://translink.com.au/stop/600641/gtfs/,0,place_mudsta,1
+600642,600642,"Murrumba Downs station, platform 2",, -27.252403, 153.011379,1,https://translink.com.au/stop/600642/gtfs/,0,place_mudsta,2
+600643,600643,"Kallangur station, platform 1",, -27.256734, 152.999709,1,https://translink.com.au/stop/600643/gtfs/,0,place_kalsta,1
+600644,600644,"Kallangur station, platform 2",, -27.256606, 152.999645,1,https://translink.com.au/stop/600644/gtfs/,0,place_kalsta,2
+600645,600645,"Petrie station, platform 5",, -27.268594, 152.982447,1,https://translink.com.au/stop/600645/gtfs/,0,place_petsta,5
+600691,600691,"Pimpama station, platform 1",, -27.816210, 153.296586,1,https://translink.com.au/stop/600691/gtfs/,0,place_pimsta,1
+600692,600692,"Pimpama station, platform 2",, -27.816289, 153.296503,1,https://translink.com.au/stop/600692/gtfs/,0,place_pimsta,2
+600693,600693,"Hope Island station, platform 1",, -27.879711, 153.331343,1,https://translink.com.au/stop/600693/gtfs/,0,place_hopsta,1
+600694,600694,"Hope Island station, platform 2",, -27.879862, 153.331378,1,https://translink.com.au/stop/600694/gtfs/,0,place_hopsta,2
+600839,600839,"Salisbury station, platform 3",, -27.554162, 153.022506,1,https://translink.com.au/stop/600839/gtfs/,0,place_slysta,3
+600840,600840,"Rocklea station, platform 3",, -27.544567, 153.014041,1,https://translink.com.au/stop/600840/gtfs/,0,place_rocsta,3
+place_albsta,,Albion station,, -27.429711, 153.040259,,,1,,
+place_aldsta,,Alderley station,, -27.423431, 153.000911,,,1,,
+place_altsta,,Altandi station,, -27.582693, 153.063932,,,1,,
+place_ascsta,,Ascot station,, -27.429935, 153.063500,,,1,,
+place_aucsta,,Auchenflower station,, -27.475996, 152.996700,,,1,,
+place_balsta,,Bald Hills station,, -27.320729, 153.011395,,,1,,
+place_bansta,,Banoon station,, -27.576409, 153.046709,,,1,,
+place_baysta,,Banyo station,, -27.374743, 153.077142,,,1,,
+place_beesta,,Beenleigh station,, -27.717573, 153.204452,,,1,,
+place_bbrsta,,Beerburrum station,, -26.959863, 152.958891,,,1,,
+place_bwrsta,,Beerwah station,, -26.857088, 152.958486,,,1,,
+place_betsta,,Bethania station,, -27.687931, 153.157951,,,1,,
+place_binsta,,Bindha station,, -27.382873, 153.072416,,,1,,
+place_birsta,,Birkdale station,, -27.493704, 153.218464,,,1,,
+place_parsta,,Boggo Road station,, -27.493302, 153.030405,,,1,,
+place_bdlsta,,Boondall station,, -27.346387, 153.067519,,,1,,
+place_bvlsta,,Booval station,, -27.609442, 152.789870,,,1,,
+place_bowsta,,Bowen Hills station,, -27.445713, 153.038071,,,1,,
+place_brasta,,Bray Park station,, -27.299627, 152.985778,,,1,,
+place_bunsta,,Bundamba station,, -27.607189, 152.804927,,,1,,
+place_brdsta,,Buranda station,, -27.496571, 153.040586,,,1,,
+place_bursta,,Burpengary station,, -27.162215, 152.957457,,,1,,
+place_cabstn,,Caboolture station,, -27.082646, 152.953449,,,1,,
+place_cansta,,Cannon Hill station,, -27.465353, 153.088976,,,1,,
+place_cassta,,Carseldine station,, -27.347367, 153.028682,,,1,,
+place_censta,,Central station,, -27.466076, 153.026320,,,1,,
+place_chesta,,Chelmer station,, -27.511948, 152.972555,,,1,,
+place_clasta,,Clayfield station,, -27.418057, 153.057470,,,1,,
+place_clesta,,Cleveland station,, -27.524498, 153.265865,,,1,,
+place_cmrstn,,Coomera station,, -27.852922, 153.317471,,,1,,
+place_cppsta,,Coopers Plains station,, -27.567080, 153.035928,,,1,,
+place_crnsta,,Cooran station,, -26.334942, 152.822922,,,1,,
+place_crysta,,Cooroy station,, -26.417914, 152.911477,,,1,,
+place_coosta,,Coorparoo station,, -27.489086, 153.055595,,,1,,
+place_corsta,,Corinda station,, -27.538950, 152.980487,,,1,,
+place_daksta,,Dakabin station,, -27.230347, 152.975517,,,1,,
+place_darsta,,Darra station,, -27.566121, 152.952481,,,1,,
+place_deasta,,Deagon station,, -27.327508, 153.063482,,,1,,
+place_dinsta,,Dinmore station,, -27.596208, 152.833321,,,1,,
+place_domsta,,Domestic Airport station,, -27.384928, 153.119077,,,1,,
+place_dbnsta,,Doomben station,, -27.431294, 153.074765,,,1,,
+place_dupsta,,Dutton Park station,, -27.500603, 153.028697,,,1,,
+place_egjsta,,Eagle Junction station,, -27.414958, 153.050255,,,1,,
+place_eassta,,East Ipswich station,, -27.609875, 152.774919,,,1,,
+place_ebbsta,,Ebbw Vale station,, -27.603538, 152.822127,,,1,,
+place_edesta,,Edens Landing station,, -27.698286, 153.170107,,,1,,
+place_elmsta,,Elimbah station,, -27.011262, 152.945471,,,1,,
+place_enosta,,Enoggera station,, -27.420349, 152.992402,,,1,,
+place_eudsta,,Eudlo station,, -26.725285, 152.956990,,,1,,
+place_eumsta,,Eumundi station,, -26.480470, 152.955037,,,1,,
+place_faista,,Fairfield station,, -27.509731, 153.028054,,,1,,
+place_fersta,,Ferny Grove station,, -27.401865, 152.935651,,,1,,
+place_forsta,,Fortitude Valley station,, -27.456779, 153.033243,,,1,,
+place_frusta,,Fruitgrove station,, -27.598461, 153.079996,,,1,,
+place_gaista,,Gailes station,, -27.602167, 152.918895,,,1,,
+place_gaysta,,Gaythorne station,, -27.419070, 152.984639,,,1,,
+place_geesta,,Geebung station,, -27.368811, 153.047070,,,1,,
+place_gmtsta,,Glass House Mountains station,, -26.899110, 152.956837,,,1,,
+place_goosta,,Goodna station,, -27.608543, 152.901126,,,1,,
+place_grasta,,Graceville station,, -27.520749, 152.975727,,,1,,
+place_grosta,,Grovely station,, -27.404511, 152.962508,,,1,,
+place_gymsta,,Gympie North station,, -26.159390, 152.682995,,,1,,
+place_helsta,,Helensvale station,, -27.925333, 153.338816,,,1,,
+place_hemsta,,Hemmant station,, -27.447541, 153.126663,,,1,,
+place_hensta,,Hendra station,, -27.422240, 153.062624,,,1,,
+place_holsta,,Holmview station,, -27.710075, 153.188309,,,1,,
+place_hopsta,,Hope Island station,, -27.880118, 153.331141,,,1,,
+place_indsta,,Indooroopilly station,, -27.503013, 152.976083,,,1,,
+place_intsta,,International Airport station,, -27.402924, 153.108816,,,1,,
+place_ipssta,,Ipswich station,, -27.613091, 152.760317,,,1,,
+place_kalsta,,Kallangur station,, -27.256716, 153.000459,,,1,,
+place_karsta,,Karrabin station,, -27.604326, 152.709258,,,1,,
+place_kepsta,,Keperra station,, -27.409672, 152.956939,,,1,,
+place_kgtsta,,Kingston station,, -27.656653, 153.118444,,,1,,
+place_kprsta,,Kippa-Ring station,, -27.225228, 153.081902,,,1,,
+place_kursta,,Kuraby station,, -27.605115, 153.091430,,,1,,
+place_lansta,,Landsborough station,, -26.808077, 152.966173,,,1,,
+place_lawsta,,Lawnton station,, -27.281635, 152.980779,,,1,,
+place_linsta,,Lindum station,, -27.442275, 153.145112,,,1,,
+place_logsta,,Loganlea station,, -27.671085, 153.138078,,,1,,
+place_lotsta,,Lota station,, -27.469709, 153.188143,,,1,,
+place_mhesta,,Mango Hill East station,, -27.232661, 153.036020,,,1,,
+place_mahsta,,Mango Hill station,, -27.245928, 153.027436,,,1,,
+place_mansta,,Manly station,, -27.456995, 153.180762,,,1,,
+place_milsta,,Milton station,, -27.468684, 153.005173,,,1,,
+place_mitsta,,Mitchelton station,, -27.411626, 152.976087,,,1,,
+place_molsta,,Mooloolah station,, -26.765454, 152.962979,,,1,,
+place_myesta,,Morayfield station,, -27.110209, 152.952745,,,1,,
+place_mgssta,,Morningside station,, -27.470891, 153.069694,,,1,,
+place_mursta,,Murarrie station,, -27.464875, 153.104883,,,1,,
+place_mudsta,,Murrumba Downs station,, -27.252047, 153.011413,,,1,,
+place_namsta,,Nambour station,, -26.625521, 152.958235,,,1,,
+place_narsta,,Narangba station,, -27.202431, 152.959821,,,1,,
+place_nrgsta,,Nerang station,, -27.994492, 153.350222,,,1,,
+place_newsta,,Newmarket station,, -27.433020, 153.010165,,,1,,
+place_npksta,,Norman Park station,, -27.481707, 153.061639,,,1,,
+place_nobsta,,North Boondall station,, -27.338680, 153.060357,,,1,,
+place_norsta,,Northgate station,, -27.393276, 153.068837,,,1,,
+place_nudsta,,Nudgee station,, -27.366275, 153.083684,,,1,,
+place_nunsta,,Nundah station,, -27.401045, 153.061677,,,1,,
+place_omesta,,Ormeau station,, -27.799240, 153.282383,,,1,,
+place_ormsta,,Ormiston station,, -27.514533, 153.256360,,,1,,
+place_oxfsta,,Oxford Park station,, -27.404415, 152.968950,,,1,,
+place_oxlsta,,Oxley station,, -27.552624, 152.973698,,,1,,
+place_palsta,,Palmwoods station,, -26.688513, 152.961031,,,1,,
+place_petsta,,Petrie station,, -27.268242, 152.981623,,,1,,
+place_pimsta,,Pimpama station,, -27.816032, 153.296222,,,1,,
+place_pomsta,,Pomona station,, -26.365875, 152.856807,,,1,,
+place_redsta,,Redbank station,, -27.599707, 152.872361,,,1,,
+place_ricsta,,Richlands station,, -27.595894, 152.947269,,,1,,
+place_rivsta,,Riverview station,, -27.595247, 152.850344,,,1,,
+place_rbnsta,,Robina station,, -28.070986, 153.377926,,,1,,
+place_rocsta,,Rocklea station,, -27.544914, 153.013636,,,1,,
+place_romsta,,Roma Street station,, -27.465617, 153.019385,,,1,,
+place_rossta,,Rosewood station,, -27.643077, 152.592226,,,1,,
+place_rotsta,,Rothwell station,, -27.223473, 153.048460,,,1,,
+place_runsta,,Runcorn station,, -27.592573, 153.068547,,,1,,
+place_slysta,,Salisbury station,, -27.553262, 153.022904,,,1,,
+place_sgtsta,,Sandgate station,, -27.322125, 153.069025,,,1,,
+place_shesta,,Sherwood station,, -27.531137, 152.979767,,,1,,
+place_shnsta,,Shorncliffe station,, -27.327087, 153.080993,,,1,,
+place_sbasta,,South Bank station,, -27.481157, 153.022756,,,1,,
+place_sousta,,South Brisbane station,, -27.474952, 153.018539,,,1,,
+place_spcsta,,Springfield Central station,, -27.674125, 152.902793,,,1,,
+place_sprsta,,Springfield station,, -27.660030, 152.921309,,,1,,
+place_strsta,,Strathpine station,, -27.311118, 152.989659,,,1,,
+place_sunsta,,Sunnybank station,, -27.580620, 153.053996,,,1,,
+place_snssta,,Sunshine station,, -27.375434, 153.055655,,,1,,
+place_tarsta,,Taringa station,, -27.493308, 152.981860,,,1,,
+place_thasta,,Thagoona station,, -27.626391, 152.630755,,,1,,
+place_thmsta,,Thomas Street station,, -27.614583, 152.745513,,,1,,
+place_thosta,,Thorneside station,, -27.486298, 153.193068,,,1,,
+place_tomsta,,Toombul station,, -27.407447, 153.058860,,,1,,
+place_twgsta,,Toowong station,, -27.485471, 152.993267,,,1,,
+place_trvsta,,Traveston station,, -26.321113, 152.784072,,,1,,
+place_trista,,Trinder Park station,, -27.631828, 153.097666,,,1,,
+place_varsta,,Varsity Lakes station,, -28.096782, 153.399621,,,1,,
+place_virsta,,Virginia station,, -27.382637, 153.063110,,,1,,
+place_wacsta,,Wacol station,, -27.589336, 152.924464,,,1,,
+place_walsta,,Walloon station,, -27.607215, 152.667634,,,1,,
+place_welsta,,Wellington Point station,, -27.494266, 153.242372,,,1,,
+place_wilsta,,Wilston station,, -27.436211, 153.019034,,,1,,
+place_winsta,,Windsor station,, -27.434934, 153.029041,,,1,,
+place_wdrsta,,Woodridge station,, -27.638290, 153.103625,,,1,,
+place_wolsta,,Wooloowin station,, -27.420028, 153.043557,,,1,,
+place_wbysta,,Woombye station,, -26.660658, 152.962924,,,1,,
+place_wulsta,,Wulkuraka station,, -27.613838, 152.732787,,,1,,
+place_wynsta,,Wynnum Central station,, -27.445791, 153.170730,,,1,,
+place_wyhsta,,Wynnum North station,, -27.437388, 153.158586,,,1,,
+place_wnmsta,,Wynnum station,, -27.439830, 153.165625,,,1,,
+place_yansta,,Yandina station,, -26.560648, 152.957699,,,1,,
+place_yeesta,,Yeerongpilly station,, -27.525324, 153.014186,,,1,,
+place_yersta,,Yeronga station,, -27.517815, 153.017035,,,1,,
+place_zllsta,,Zillmere station,, -27.359268, 153.037514,,,1,,
